@@ -1,8 +1,12 @@
 # Schedule-1-Auto-Slot-Script
 
 Controls & Script Functions
-F4 → Stops the auto-spin loop
+F1 → Starts the auto-spin loop
+F4 → Pauses the script
 F5 → Completely exits the script
+
+Requirements
+You will need AutoHotkey v2 installed to run this script.
 
 How It Works
 The script rotates your camera to cycle between slot machines.
